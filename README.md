@@ -59,7 +59,7 @@ Step 7 Left
 
 Step 7 Right
 
-✂Dataset Adaptation
+Dataset Adaptation
 To streamline the classification task and improve robustness, the dataset was modified from 12 classes down to 6 main steps, by:
 
 Merging left and right actions for each step.
@@ -73,7 +73,7 @@ The classification model is based on ResNet-18, a deep convolutional neural netw
 
 Download the Modified Dataset
 You can download the modified 6-class Hand Wash Dataset (prepared by me based on the original Kaggle dataset) from Google Drive here:
-[🔗 Download Hand Wash Dataset (6 Classes)](https://drive.google.com/file/d/1nz0l8r07tl1-mdDjgE7Qcx3RUWJ8Sed2/view?usp=sharing)
+[Download Hand Wash Dataset (6 Classes)](https://drive.google.com/file/d/1nz0l8r07tl1-mdDjgE7Qcx3RUWJ8Sed2/view?usp=sharing)
 
 Original Kaggle source:
-🔗 https://www.kaggle.com/datasets/realtimear/hand-wash-dataset
+https://www.kaggle.com/datasets/realtimear/hand-wash-dataset
